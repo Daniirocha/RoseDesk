@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🌹 RoseDesk
 
 RoseDesk é uma aplicação web fullstack de Help Desk / Gestão de Tickets, desenvolvida para portfólio profissional, com foco em clareza de código, regras de negócio reais e experiência de uso.
@@ -165,4 +164,3 @@ Este projeto foi desenvolvido com foco em:
 ## 👩‍💻 Autora
 **Danielle Rocha**  
 Desenvolvedora Full Stack
-EOF
